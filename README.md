@@ -1,2 +1,12 @@
 # codsoft_task2
 Welcome to my CodSoft Virtual Internship Repository! 🚀 Here, I'll be documenting and submitting the tasks assigned during the web development internship. Join me on this coding journey as I dive into various projects and challenges, honing my skills in web development. 
+
+
+In developing the calculator project, I utilized HTML, CSS, and JavaScript to create a functional and interactive web application. The HTML document adheres to standard HTML5 structure, employing semantic elements like `<div>`, `<button>`, and `<table>` for organizing content. Specific IDs, such as "display," "clear," and others, were implemented to uniquely identify elements within the document, enhancing accessibility and targeting in JavaScript.
+
+In terms of CSS, global styles were applied to reset default styles using the universal selector (`*`). Transitions were introduced to provide a smoother user experience, contributing to the overall aesthetics of the calculator. The stylesheet also showcased responsive design principles, with the use of CSS properties like `height`, `width`, and `max-width` for adaptability to various screen sizes.
+
+Throughout the development process, I learned the importance of project organization, recognizing the significance of structuring a web project with separate HTML, CSS, and JavaScript files. Responsive design principles became evident as I ensured the calculator's usability across different devices. The project reinforced my understanding of interactivity in web development, emphasizing the importance of clean and readable code.
+
+Encountering challenges related to button click actions and expression evaluation contributed to improved problem-solving skills. The project also highlighted the need for version control awareness, with considerations for using tools like Git to track changes and collaborate effectively. Additionally, an awareness of accessibility considerations and potential security risks, especially when using functions like `eval()`, added valuable dimensions to my learning as a web development intern.
+Overall, the calculator project provided a practical application of web development concepts, offering insights into responsive design, interactivity, and best practices in code organization and security. The learnings from this project will undoubtedly serve as a foundation for future web development endeavors, contributing to my growth as a web developer.
